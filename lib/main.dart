@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
@@ -13,9 +12,7 @@ import 'package:user/Counters/changeAddresss.dart';
 import 'package:user/Counters/totalMoney.dart';
 import 'package:user/screens/home.dart';
 import 'package:firebase_core/firebase_core.dart';
-
 import 'package:user/screens/login.dart';
-
 import 'Config/config.dart';
 
 Future<void> main() async {
