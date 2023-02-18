@@ -44,7 +44,7 @@ android {
         applicationId "com.artpavilionproducts.arorabrush"
         minSdkVersion 21
         targetSdkVersion 31
-        versionCode 9
+        versionCode 10
         versionName flutterVersionName
         multiDexEnabled true
     }
